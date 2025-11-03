@@ -1,6 +1,6 @@
-Streamlit 本機介面（啟動後在瀏覽器開啟）
+Streamlit 公開應用程式網址
 
-http://localhost:8501
+https://aiot-homework-3-49aznj4kqggsn7bqbckwbs.streamlit.app
 
 ---
 
