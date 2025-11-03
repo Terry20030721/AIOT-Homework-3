@@ -1,8 +1,6 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aiot-homework-3-wscm6axxbg2crgwbsvqsd6.streamlit.app)
-
----
-
 # Spam classification — Phase 1 & Phase 2
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aiot-homework-3-wscm6axxbg2crgwbsvqsd6.streamlit.app)
 
 簡介
 本專案示範一個簡單的 Spam/Ham 分類工作流程（Phase‑1）：下載公開 SMS 資料集、前處理、訓練 TF‑IDF + SVM 的 baseline，並提供一個 CLI 預測工具。Phase‑2 增加一個本地的 Streamlit 視覺化儀表板（`scripts/dashboard.py`），可自動載入資料、在啟動時重新切分/訓練分析用模型，並顯示資料概覽、關鍵字排行與模型效能（ROC / PR）以及 Live Inference 區塊。
