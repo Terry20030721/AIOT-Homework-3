@@ -1,6 +1,4 @@
-Streamlit 公開應用程式網址
-
-https://aiot-homework-3-49aznj4kqggsn7bqbckwbs.streamlit.app
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aiot-homework-3-wscm6axxbg2crgwbsvqsd6.streamlit.app)
 
 ---
 
